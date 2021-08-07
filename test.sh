@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #実行結果を保存
-result=$(./hello.sh)
+result=$(./script.sh)
 #実行結果のテスト
 if [ $result = "hello" ]; then
 	echo "OK"
