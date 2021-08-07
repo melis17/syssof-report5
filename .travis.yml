@@ -1,5 +1,5 @@
 language: bash
 script:
   - echo "report5"
-  - echo "script.shのテスト"
+  - echo "test script.sh"
   - ./test.sh
